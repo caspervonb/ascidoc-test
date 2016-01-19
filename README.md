@@ -1,1 +1,0 @@
-# ascidoc-test
